@@ -1,5 +1,5 @@
 # app-dev
-==My First Repository==
+	**bold text** My First Repository
 Favorites
 | tier | Series|
 | ----------- | ----------- |
